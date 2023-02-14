@@ -89,49 +89,52 @@ Describir los tipos de transformadores y sus características principales.
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
-**Capítulo 13: Inductores**
+**Capítulo 15:  Circuitos RC**
 
-***2. Convierta los siguientes valores en microhenries:***
+***2. Localice los siguientes números en el plano complejo:***
 
-![image](https://user-images.githubusercontent.com/116696484/216701726-bd40c13d-b001-43e0-84b1-d449484db510.png)
+![image](https://user-images.githubusercontent.com/116696484/218820067-f32b4479-a738-4e34-8d2f-c1805243938f.png)
 
-***4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?***
+***4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.***
 
-![image](https://user-images.githubusercontent.com/116696484/216701817-9363d6f4-814a-4c65-9757-1ab1de48035d.png)
+![image](https://user-images.githubusercontent.com/116696484/218820164-7c8d4f18-0394-4a09-8195-0a63b5212e3a.png)
 
-***6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 3 1025 m2 y tiene longitud de 0?05 m? La permeabilidad del núcleo es de 1.2 3 1026 H/m.***
+***6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:***
 
-![image](https://user-images.githubusercontent.com/116696484/216701934-33dbdb84-6b8a-479f-ae3a-057a2b5fbb61.png)
+![image](https://user-images.githubusercontent.com/116696484/218820318-a99088fb-cecc-47b4-90f1-f8f2a46614d2.png)
 
-***8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1***
+***8. Convierta cada uno de los siguientes números rectangulares a forma polar:***
 
-El conductor 2 tendrá mayor flujo magnético a través del circuito. 
+![image](https://user-images.githubusercontent.com/116696484/218820446-eec7a71c-433b-461d-94f4-935270637ef8.png)
 
-***10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10-6 H/m). Determine la inductancia de la bobina que se formó.***
+![image](https://user-images.githubusercontent.com/116696484/218820468-498037e6-6af5-4fa4-842f-046a5c526ff1.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216702125-6e47d562-9323-4590-b559-cc7a60893947.png)
 
-***12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?***
+***10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo.***
 
-![image](https://user-images.githubusercontent.com/116696484/216702241-fae5223a-6d6c-4bf6-9867-8948f370b2a5.png)
+![image](https://user-images.githubusercontent.com/116696484/218820555-8f78c726-f037-4ce1-92cb-f4692840c630.png)
 
-***14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?***
+***12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.***
 
-![image](https://user-images.githubusercontent.com/116696484/216702347-d14f5b3f-ed85-40c4-a70c-8f37c34b85a8.png)
+El problema se encuentra en el primer cuadrante
 
-***16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+***14. Sume los siguientes conjuntos de números complejos:***
 
-![image](https://user-images.githubusercontent.com/116696484/216702442-538d7ae3-3bf0-44fa-a441-ddc772d7abb6.png)
+![image](https://user-images.githubusercontent.com/116696484/218820686-c981d800-02d5-451b-8c69-fd19ad0640ae.png)
 
-***18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.***
+***16. Multiplique los siguientes números:***
 
-![image](https://user-images.githubusercontent.com/116696484/216702575-47aedd78-b09e-4527-adc8-cc4ac71bdb12.png)
+![image](https://user-images.githubusercontent.com/116696484/218820805-bc305e31-fa97-461e-9ec7-a04e05262ed4.png)
 
-***20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:***
+***18. Realice las siguientes operaciones:***
 
-![image](https://user-images.githubusercontent.com/116696484/216702990-32c70af7-66a6-4796-880c-fb70b32b82bc.png)
+![image](https://user-images.githubusercontent.com/116696484/218820866-eb971a8d-4572-4111-9a90-e5df83cf0fba.png)
 
-***22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:***
+***20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?***
+
+La corriente es sinusoidal
+
+***22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.***
 
 ![image](https://user-images.githubusercontent.com/116696484/216703080-b5c38c96-a64a-4bd2-bb27-6d30949bfdd5.png)
 
