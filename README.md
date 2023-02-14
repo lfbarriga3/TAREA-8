@@ -24,65 +24,67 @@ Describir los tipos de transformadores y sus características principales.
 
 **2.1.1 El sistema de los números complejos**
 
-![image](https://user-images.githubusercontent.com/116696484/216665614-41a92308-8e34-42bd-919c-a5fb25e6284a.png)
+![image](https://user-images.githubusercontent.com/116696484/218815204-7c72c670-8004-4a4f-99ab-a3d39cec070e.png)
 
 **2.1.2 Respuesta sinusoidal de circuitos RC en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216665673-99011004-b8cb-41eb-8b46-975f183c6f40.png)
+![image](https://user-images.githubusercontent.com/116696484/218815241-ea961b6a-5539-47aa-bd4a-a6f69df1624f.png)
 
 **2.1.3 Impedancia de circuitos RC en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216665744-a062a87e-f6c3-449a-b950-c54bcb2cf688.png)
+![image](https://user-images.githubusercontent.com/116696484/218815296-2c524546-be54-4432-8f1e-57e8a9a19cf5.png)
 
 **2.1.4 Análisis de circuitos RC en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216665828-6cf630ee-eea5-4c4a-8f25-975621d98f74.png)
+![image](https://user-images.githubusercontent.com/116696484/218815406-8b5364ae-9c1d-40bd-ac5d-5b4bbd603be3.png)
+
 
 **2.1.5 Impedancia y admitancia de circuitos RC en paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/216665949-94409033-a987-4ad9-8fcf-c24808554108.png)
+![image](https://user-images.githubusercontent.com/116696484/218815726-bb05d75c-ba8f-4cbd-803b-2038dd724e22.png)
 
 **2.1.6 Análisis de circuitos RC en paralelo**
 
-**2.1.7 Análisis de circuitos RC en serie-paralelo**
+![image](https://user-images.githubusercontent.com/116696484/218815877-65c9526c-4a76-418d-9efe-54e7470e96f3.png)
 
-**2.1.8 Potencia en circuitos RC**
+**2.1.7 Aplicaciones básicas**
 
-**2.1.9 Aplicaciones básicas**
+![image](https://user-images.githubusercontent.com/116696484/218816043-3e95175d-907c-4379-9d45-5174f937b0d7.png)
+
 
 **2.2 Capítulo 16: Circuitos RL**
 
 **2.2.1 Respuesta sinusoidal de circuitos RL en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216688797-2477263c-40e3-4bc5-ab3b-b08fcf20ee15.png)
+![image](https://user-images.githubusercontent.com/116696484/218816109-db59bebb-c2aa-437b-af50-ce0c2c3e2f7c.png)
 
 **2.2.2 Impedancia de circuitos RL en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216689009-f4bb9611-baab-4e33-892b-be8aaa01dfea.png)
+![image](https://user-images.githubusercontent.com/116696484/218817385-520991f2-c42a-4b33-a3e3-5080a73fd05c.png)
 
 **2.2.3 Análisis de circuitos RL en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/216689115-717eaeae-f890-4562-8a90-c912991e1427.png)
+![image](https://user-images.githubusercontent.com/116696484/218816213-f0aa26b9-4c87-42aa-8c5b-5299d4b8aa7d.png)
 
 **2.2.4 Impedancia y admitancia de circuitos RL en paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/216689182-51b48e74-01a0-4524-866c-37bdb205a954.png)
+![image](https://user-images.githubusercontent.com/116696484/218817478-1e34a941-0307-46d3-a088-79ef9cf13381.png)
 
 **2.2.5 Análisis de circuitos RL en paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/216689242-e87f29ec-aedc-490a-a00f-ee98126b157c.png))
+![image](https://user-images.githubusercontent.com/116696484/218817610-cab81287-d7e2-4f12-86fa-7d957b1a7b52.png)
 
 **2.2.6 Análisis de circuitos RL en serie-paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/216689289-263efc3e-c31e-4cca-b6e0-173b793bce7a.png)
+![image](https://user-images.githubusercontent.com/116696484/218816614-17e841c8-4343-4504-9f6c-866be4b28b3c.png)
 
 **2.2.7 Potencia en circuitos RL** 
 
-![image](https://user-images.githubusercontent.com/116696484/216689364-52fae142-71e4-454f-ac0f-16f0b0f53db0.png)
+![image](https://user-images.githubusercontent.com/116696484/218816686-4898d2cb-d991-4afe-b4a7-b679dd71d49b.png)
 
 **2.2.8 Aplicaciones básicas** 
 
-![image](https://user-images.githubusercontent.com/116696484/216689418-967fa652-fd17-4283-9a32-a27db1e1c101.png)
+![image](https://user-images.githubusercontent.com/116696484/218816725-702594a4-26c6-4183-b2fa-4e63e5d96b32.png)
 
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
