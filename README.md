@@ -138,116 +138,156 @@ La corriente es sinusoidal
 
 ![image](https://user-images.githubusercontent.com/116696484/216703080-b5c38c96-a64a-4bd2-bb27-6d30949bfdd5.png)
 
-***24. Repita el problema 22 para los siguientes instantes:***
+***24. Repita el problema 23 con C = 0.0047 µF.***
 
-![image](https://user-images.githubusercontent.com/116696484/216703275-3e5b4a86-3e2a-4d5a-92cf-1b71fedb7101.png)
+![image](https://user-images.githubusercontent.com/116696484/218866478-3c951b8a-624c-4691-bad9-8127755e0afc.png)
 
-***26.***
+***26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.***
 
-![image](https://user-images.githubusercontent.com/116696484/216703375-d513ecdb-8e0c-4970-ba18-e823a6be8a35.png)
+![image](https://user-images.githubusercontent.com/116696484/218866577-a5a7a7ce-d0db-4325-a274-79848a14f8f6.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216703464-5a0e166a-34e9-45cc-a709-b9b35f41015a.png)
+***28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.***
 
+![image](https://user-images.githubusercontent.com/116696484/218866662-875e024a-8685-48fd-86a9-0feec5c07e42.png)D
 
-***28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?***
-
-![image](https://user-images.githubusercontent.com/116696484/216703637-cbd2fbf7-4156-43b9-a4dd-551153446a56.png)
-
-![image](https://user-images.githubusercontent.com/116696484/216703671-c464c890-636b-413a-852a-eb606c636e56.png)
+![image](https://user-images.githubusercontent.com/116696484/218866688-78df9196-bf8c-45ee-93ec-0349cd0a940c.png)
 
 
-***30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.***
+***30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase***
 
-![image](https://user-images.githubusercontent.com/116696484/216703788-99b6ec35-5f86-4619-ac15-cb91a738b78c.png)
+![image](https://user-images.githubusercontent.com/116696484/218866782-a1f865d8-1142-430e-b2ff-a923cd29b321.png)
 
-***32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?***
-
-![image](https://user-images.githubusercontent.com/116696484/216703929-45a504f2-32b2-46c7-9264-96fd496e3076.png)
-
-***34. En la figura 13-51, determine la potencia reactiva.***
-
-![image](https://user-images.githubusercontent.com/116696484/216704009-30eb66e4-81f5-4d16-96b0-02450e337fdc.png)
+![image](https://user-images.githubusercontent.com/116696484/218866814-09ad77d1-29ae-4be8-a38d-916c5e639457.png)
 
 
-**2.2 Capítulo 14: Transformadores**
+***32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?***
 
-***2. Determine el coeficiente de acoplamiento cuando LM=1 µH, L1= 8 µH, y L2 = 2 µH.***
+![image](https://user-images.githubusercontent.com/116696484/218866886-40c362d7-4d60-4ff2-8291-58ccde215cc9.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216704595-d1d9dbdc-ed52-470f-95ed-ad2e5a7904aa.png)
+***34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:***
 
+![image](https://user-images.githubusercontent.com/116696484/218867007-976c9048-5982-41f0-a777-6239dbaf5eb2.png)
 
-**4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?***
+![image](https://user-images.githubusercontent.com/116696484/218867056-5008afea-523d-464f-8dca-1387e9eacd76.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216704640-8a1c2adb-d3fe-4c19-9135-a13a7f0129f5.png)
+***38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs = 1 V rms***
 
-***6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?***
+![image](https://user-images.githubusercontent.com/116696484/218867149-61db2d53-0e9f-4d44-bacf-659b2df3e2e7.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216704710-47b5540a-8485-4750-b8c9-682160a943fb.png)
+***40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.***
 
-***8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?***
-
-![image](https://user-images.githubusercontent.com/116696484/216704818-0601ddaf-cd54-449c-b8a1-0cf4d06013b5.png)
-
-
-***10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?***
-
-![image](https://user-images.githubusercontent.com/116696484/216705070-4ccca775-56b3-4d40-8747-223b31fa5c2e.png)
-
-***12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?***
-
-![image](https://user-images.githubusercontent.com/116696484/216705128-28c53ab8-0093-4074-8e7c-462279a77571.png)
+![image](https://user-images.githubusercontent.com/116696484/218867235-5ec735bb-0312-4fcd-b812-d9ffb365ac21.png)
 
 
-***14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?***
+**2.2 Capítulo 16: Cicuitos RL**
 
-![image](https://user-images.githubusercontent.com/116696484/216705197-062d80e3-e744-4b50-b357-dfedefe745d1.png)
+***1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?***
 
-***16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?***
-
-![image](https://user-images.githubusercontent.com/116696484/216705279-1a918344-2434-4eb2-91cf-bf170a28eb47.png)
-
-***18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4Ω***
-
-![image](https://user-images.githubusercontent.com/116696484/216705379-bbeb998f-b048-4746-abc4-b93f72ea51a0.png)
+La frecuencia es de 15kHz
 
 
-***20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.***
+***3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.***
 
-![image](https://user-images.githubusercontent.com/116696484/216705470-752ab5f8-f65a-4d4e-958f-2533f3071349.png)
+![image](https://user-images.githubusercontent.com/116696484/218867652-ca27b99a-df64-46d2-8d07-3bb0d0f446b9.png)
 
+***5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:***
 
-***22. ¿Cuál es la eficiencia del transformador en el problema 21?***
+![image](https://user-images.githubusercontent.com/116696484/218867735-6da9097d-7341-4d66-add0-8aca2ac391ed.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216705540-d0ac0bbf-4652-4bcf-b932-78774bd7ab96.png)
+![image](https://user-images.githubusercontent.com/116696484/218867794-f39c4878-00cc-4334-b42b-d1e41acdc880.png)
 
-***24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.***
-
-![image](https://user-images.githubusercontent.com/116696484/216705637-042f1649-b5c0-4b00-a311-ad901c8505a3.png)
-
-***26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz***
-
-![image](https://user-images.githubusercontent.com/116696484/216705733-895906b3-916e-455e-8295-36ee1c8c54b3.png)
+![image](https://user-images.githubusercontent.com/116696484/218867837-d2042cca-97b1-436b-af11-4effe6a8b036.png)
 
 
-***28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.***
+***7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.***
 
-![image](https://user-images.githubusercontent.com/116696484/216705809-cda262f0-befd-449c-b11e-93ec5573d40c.png)
+![image](https://user-images.githubusercontent.com/116696484/218867948-3a5cf269-1938-4c8b-9959-56bf2818409f.png)
 
-***30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240***
-
-![image](https://user-images.githubusercontent.com/116696484/216705868-5eb328b7-0f47-4c88-8d78-feeed9783031.png)
+![image](https://user-images.githubusercontent.com/116696484/218867973-fe48b532-389f-45b4-999e-84ffcb19182d.png)
 
 
-**32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?***
+***9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.***
 
-Si el primario se corta, se extrae una corriente excesiva que potencialmente puede quemar la fuente y el transformador a menos que el primario esté fusionado
+![image](https://user-images.githubusercontent.com/116696484/218868103-eae56f3b-9f32-4046-a24c-3284a44847b8.png)
+
+***11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.***
+
+![image](https://user-images.githubusercontent.com/116696484/218868245-a23adcfd-c398-4d83-a4d3-75becf4776aa.png)
 
 
-***34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?***
+***13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?***
 
-Alguno, pero no todos, de los devanados secundarios están cortocircuitados o el voltaje primario es inferior al esperado.
+![image](https://user-images.githubusercontent.com/116696484/218868317-24e99d8d-1a8c-49e5-bf54-20aa54fef735.png)
+
+***15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:***
+
+![image](https://user-images.githubusercontent.com/116696484/218868422-a848da2c-d9b9-4410-b5bf-f5098f4f986b.png)
+
+***17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:***
+
+![image](https://user-images.githubusercontent.com/116696484/218868513-da5665c8-aee6-43c9-a3f2-0fbb32078d95.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218868541-8ce33168-f257-4114-8d48-799f09ee0a3c.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218868565-9064ff49-3abe-43f1-a2fa-409bb340463e.png)
+
+***19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?***
+
+![image](https://user-images.githubusercontent.com/116696484/218868635-f260899d-10ae-4915-8061-ca3169984434.png)
 
 
+***21. ¿A qué frecuencia XL es igual a R en la figura 16-63?***
+
+![image](https://user-images.githubusercontent.com/116696484/218868736-cb05e78b-36fd-4b67-9c95-325648a15434.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218868759-7a32876c-e2de-4b9b-8f4e-f86215259d9f.png)
+
+
+***23. Determine las siguientes cantidades en la figura 16-65:***
+
+![image](https://user-images.githubusercontent.com/116696484/218868833-c8d7a117-2d22-4977-b2d0-87b38bd04245.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218868893-e4396fac-de74-4d05-905e-2a586c1a9b53.png)
+
+
+***25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.***
+
+![image](https://user-images.githubusercontent.com/116696484/218868965-76c98815-886a-49fd-bb14-51efd3111bec.png)
+
+
+***27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje***
+
+![image](https://user-images.githubusercontent.com/116696484/218869062-5c4b50ad-446f-414f-8d7a-4c095fb5587f.png)
+
+***29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.***
+
+![image](https://user-images.githubusercontent.com/116696484/218869128-c0ce6c7e-995d-4d93-9bd4-a1b092c92cb6.png)
+
+***33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.***
+
+![image](https://user-images.githubusercontent.com/116696484/218869227-d284deb7-47e1-45da-ae9b-5eba8451c1e4.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218869264-1fe8bbc5-fe2a-4ca5-91b6-cfcf02ed7a9e.png)
+
+***35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A***
+
+![image](https://user-images.githubusercontent.com/116696484/218869345-f55b7a71-de25-44a2-976c-e591f6276ea0.png)
+
+***37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.***
+
+![image](https://user-images.githubusercontent.com/116696484/218869459-1e56142f-97a3-4e84-b6f3-000fbf1d4d41.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218869496-6524407b-bb65-4eb9-b265-c67f1765981e.png)
+
+***39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.***
+
+![image](https://user-images.githubusercontent.com/116696484/218869591-c93397e5-11cc-44ef-b79b-002d590ccebc.png)
+
+![image](https://user-images.githubusercontent.com/116696484/218869627-683ea6ac-cb50-409b-9d11-053a1fc8797a.png)
+
+***41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.***
+
+![image](https://user-images.githubusercontent.com/116696484/218869845-b2e24048-3d60-485d-91cc-234d933094fb.png)
 
 
 ### 4. VIDEO
