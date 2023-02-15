@@ -4,19 +4,22 @@
 
 **1.1 Objetivo General**
 
-Entender la construcción  y los tipos de inductores, de tal manera que ese conocimiento sea útil al momento de analizar circuitos inductivos. Adicionalmente se describirá el funcionamiento y la construcción de transformadores, a fin de ejecutar un análisis respecto al efecto que tiene una carga resistiva a través del devanado secundario.
+Entender como funcionan los circuitos RL y RC tanto en serie como paralelo, de tal manera que nos sea posible utilizar esos conocimientos para poder determinar, basado en mediciones de parámetros, el tipo de circuito filtrado que está encápsulado en módulos sellados y sus valores de componentes.
+
 
 **1.2 Objetivos Específicos**
 
-Analizar inductores, tanto en circuitos serie como paralelos.
+Reconocer el sistema de los números complejos y la manera en la cual se estructura.
 
-Estudiar los tipos de inductores.
+Determinar impedancia y admitancia en un circuito RL y RC en serie y paralelo.
 
-Describir el funcionamiento y construcción de un transformador.
+Estudiar la potencia en circuitos RL y RC.
 
-Hacer un análisis del efecto de una carga reflejada en un transformador.
+Describir aplicaciones básicas en las cuales estén presentes circuitos RL y RC.
 
-Describir los tipos de transformadores y sus características principales.
+Analizar circuitos RL en paralelo.
+
+Describir la relación entre corriente y voltaje en un circuito RL en serie.
 
 ### 2. MARCO TEÓRICO
 
@@ -296,14 +299,15 @@ https://youtu.be/RjWTO_ndsms
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se aprendió que el inductor, es básicamente una bobina de alambre, se basa en el principio de inducción electromagnética. Inductancia es la propiedad de una bobina de alambre que se opone a un cambio de corriente. La base de la inductancia es el campo electromagnético que rodea cualquier conductor cuando fluye corriente a través de él. El componente eléctrico diseñado para poseer la propiedad de inductancia se llama inductor, bobina o, en ciertas aplicaciones, bobina de reducción o reactancia.
+A lo largo del presente informe se estudiaron circuitos RL dispuestos en serie y en paralelo. Los análisis de circuitos RL y RC son similares. La diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la
+reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia. En este informe, se presentan los circuitos RL básicos en serie y en paralelo y sus respuestas a voltajes sinusoidales de ca. Se analizan combinaciones en serie-paralelo. Se introducen las potencias real, reactiva y aparente en circuitos RL y algunas aplicaciones básicas de éstos. Las aplicaciones de circuitos RL incluyen filtros y reguladores de conmutación.
  
-Adicionalmente se estudió que la operación del transformador se basa en el principio de inductancia mutua, la cual ocurre si dos o más bobinas están muy cercanas una de otra. En realidad, un transformador simple se compone de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua. Como no existe contacto eléctrico entre dos bobinas magnéticamente acopladas, la transferencia de energía de una bobina a la otra se logra en una situación de completo aislamiento eléctrico.
+Adicionalmente se estudió que un circuito RC contiene tanto resistencia como capacitancia. En este capítulo, se presentan circuitos RC en serie y en paralelo básicos, así como sus respuestas a voltajes sinusoidales de ca. También se analizan combinaciones dispuestas en serie-paralelo. Se estudian las potencias verdadera, reactiva y aparente en circuitos RC y se introducen algunas aplicaciones básicas de circuitos RC. Las aplicaciones de circuitos RC incluyen filtros, acoplamiento de amplificadores, osciladores, y circuitos modificadores de ondas
 
 ### 6. BIBLIOGRAFÍA 
 
-Abarca Enríquez, F. (1974). Diseño de una inductancia electrónica (Bachelor's thesis, Quito: EPN, 1974.).
-
-Avelar, O. X., & Romero, D. I. Inductancias Acopladas Magnéticamente.
-
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
+
+Omar, M. M. G., & Luis, L. V. J. Análisis De Circuitos Eléctricos 1-EL96-201201.
+
+Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 78.
